@@ -1,4 +1,4 @@
-# dataset_generator
+# Dataset generator
 
 Lite version for the datasets generation from video (for background) and auto generate annotations in PascalVoc format.
 
