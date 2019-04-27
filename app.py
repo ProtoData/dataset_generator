@@ -61,7 +61,7 @@ while(True):
                 y = random.randint(0, WIDTH - w)
                 result_img = set_overlay(background, res_overlay, (y,x))
 
-                folder = ANNOTATIONS_DIR
+                folder = 'images'
                 image_name = CLASS_NAME + '_' + str(cur_frame) + '_' + str(c) + '.jpg'
                 image_w = str(WIDTH)
                 image_h = str(HEIGHT)
